@@ -1,0 +1,28 @@
+_repo: The-Solomon-Islands-and-Their-Natives_42388
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42388-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Guppy, H. B. (Henry Brougham)
+    alias: Guppy, Henry Brougham
+    birthdate: 1854
+    deathdate: 1926
+    gutenberg_agent_id: '41662'
+    url: http://www.gutenberg.org/2009/agents/41662
+description: ''
+gutenberg_issued: '2013-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42388'
+  lccn: agr03000436
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Solomon Islands'
+title: The Solomon Islands and Their Natives
+url: http://www.gutenberg.org/ebooks/42388
